@@ -13,6 +13,6 @@ require "pry-byebug"
 File.open("./costdata.json") do |file|
   hash = JSON.load(file)
   hash.each do |key, value|
-    puts hash[key]
+    puts value
   end
 end
