@@ -1,0 +1,29 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Taro",
+      "height": 170
+    },
+    {
+      "id": 2,
+      "name": "Jiro",
+      "height": 160
+    },
+    {
+      "id": 3,
+      "name": "Saburo",
+      "height": 175
+    },
+    {
+      "id": 4,
+      "name": "Shiro",
+      "height": 165
+    },
+    {
+      "id": 5,
+      "name": "Goro",
+      "height": 180
+    }
+  ]
+}
